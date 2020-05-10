@@ -22,3 +22,5 @@ LOGFILE = {
         },
     },
 }
+
+DB_URL = "sqlite:///jobs.sqlite"
